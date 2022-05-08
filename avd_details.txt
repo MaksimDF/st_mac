@@ -1,0 +1,49 @@
+Name: Galaxy_A3_Practicum2_API_28
+CPU/ABI: x86
+Path: C:\Users\MZori\.android\avd\Galaxy_A3_Practicum2_API_28.avd
+Target: google_ndk [Google X86_ARM] (API level 28)
+Skin: 720x1280
+SD Card: <none>
+AvdId: Galaxy_A3_Practicum2_API_28
+PlayStore.enabled: false
+avd.ini.displayname: Galaxy A3 Practicum2 API 28
+avd.ini.encoding: UTF-8
+disk.dataPartition.size: 800M
+fastboot.chosenSnapshotFile: 
+fastboot.forceChosenSnapshotBoot: no
+fastboot.forceColdBoot: no
+fastboot.forceFastBoot: yes
+hw.accelerometer: yes
+hw.arc: false
+hw.audioInput: yes
+hw.battery: yes
+hw.camera.back: virtualscene
+hw.camera.front: emulated
+hw.cpu.ncore: 4
+hw.dPad: no
+hw.device.hash2: MD5:d37b758e1a2b070e348378c2efde849a
+hw.device.manufacturer: User
+hw.device.name: Galaxy A3 Practicum2
+hw.gps: yes
+hw.gpu.enabled: yes
+hw.gpu.mode: auto
+hw.initialOrientation: Portrait
+hw.keyboard: yes
+hw.lcd.density: 320
+hw.lcd.height: 1280
+hw.lcd.width: 720
+hw.mainKeys: no
+hw.ramSize: 1024
+hw.sdCard: yes
+hw.sensors.orientation: yes
+hw.sensors.proximity: yes
+hw.trackBall: no
+image.sysdir.1: system-images\android-28\x86\
+runtime.network.latency: none
+runtime.network.speed: full
+showDeviceFrame: no
+skin.dynamic: yes
+skin.path.backup: _no_skin
+tag.display: Google X86_ARM
+tag.id: google_ndk
+vm.heapSize: 80
